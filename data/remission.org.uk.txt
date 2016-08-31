@@ -1,0 +1,20 @@
+# NS
+.remission.org.uk::a.ns.bytemark.co.uk
+.remission.org.uk::b.ns.bytemark.co.uk
+.remission.org.uk::c.ns.bytemark.co.uk
+
+# MX
+@remission.org.uk:74.125.71.26:ASPMX.L.GOOGLE.COM:1:3600
+@remission.org.uk:173.194.220.27:ALT1.ASPMX.L.GOOGLE.COM:5:3600
+@remission.org.uk:74.125.68.26:ALT2.ASPMX.L.GOOGLE.COM:5:3600
+@remission.org.uk:64.233.189.26:ALT3.ASPMX.L.GOOGLE.COM:10:3600
+@remission.org.uk:173.194.72.26:ALT4.ASPMX.L.GOOGLE.COM:10:3600
+
+# C
+Cwww.remission.org.uk:remission.org.uk:86400
+
+# A
++www.remission.org.uk:46.43.0.210:86400
+
+# A + PTR
+=remission.org.uk:46.43.0.210:86400

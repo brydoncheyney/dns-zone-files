@@ -1,0 +1,20 @@
+# NS
+.jesuslovesamerika.co.uk::a.ns.bytemark.co.uk
+.jesuslovesamerika.co.uk::b.ns.bytemark.co.uk
+.jesuslovesamerika.co.uk::c.ns.bytemark.co.uk
+
+# MX
+@jesuslovesamerika.co.uk:74.125.71.26:ASPMX.L.GOOGLE.COM:1:3600
+@jesuslovesamerika.co.uk:173.194.220.27:ALT1.ASPMX.L.GOOGLE.COM:5:3600
+@jesuslovesamerika.co.uk:74.125.68.26:ALT2.ASPMX.L.GOOGLE.COM:5:3600
+@jesuslovesamerika.co.uk:64.233.189.26:ALT3.ASPMX.L.GOOGLE.COM:10:3600
+@jesuslovesamerika.co.uk:173.194.72.26:ALT4.ASPMX.L.GOOGLE.COM:10:3600
+
+# C
+Cwww.jesuslovesamerika.co.uk:jesuslovesamerika.co.uk:86400
+
+# A
++www.jesuslovesamerika.co.uk:46.43.0.210:86400
+
+# A + PTR
+=jesuslovesamerika.co.uk:46.43.0.210:86400
