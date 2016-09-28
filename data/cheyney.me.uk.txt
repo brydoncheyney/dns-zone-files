@@ -6,9 +6,8 @@
 # A + PTR (domain)
 =cheyney.me.uk:46.43.0.210:3600
 
-# A (aliases)
 +www.cheyney.me.uk:46.43.0.210:3600
 +mail.cheyney.me.uk:46.43.0.210:3600
 
 # MX (mail)
-@cheyney.me.uk::mail.cheyney.me.uk:1:3600
+@cheyney.me.uk:46.43.0.210:mail.cheyney.me.uk:1:3600

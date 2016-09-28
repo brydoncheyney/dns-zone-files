@@ -8,7 +8,6 @@
 
 # A (aliases)
 +www.remission.org.uk:46.43.0.210:3600
-+mail.remission.org.uk:46.43.0.210:3600
 
 # MX (mail)
-@remission.org.uk::mail.remission.org.uk:1:3600
+@remission.org.uk:46.43.0.210:mail.remission.org.uk:1:3600
