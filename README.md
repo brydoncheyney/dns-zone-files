@@ -29,13 +29,10 @@ data/domain.org.uk.txt
 
 Domains transferred to Bytemark -
 
-* jesuslovesamerika.co.uk
-
-Domains to be transferred from freeparking.co.uk -
-
-* remission.org.uk
-* cheyney.me.uk
+- jesuslovesamerika.co.uk
+- remission.org.uk
+- cheyney.me.uk
 
 ## Transfer domain to Bytemark
 
-See [Bytemark documentation](https://www.bytemark.co.uk/docs/domains/dnsc/).
+See [Bytemark documentation](https://docs.bytemark.co.uk/article/transferring-an-existing-domain-to-bytemark/).
