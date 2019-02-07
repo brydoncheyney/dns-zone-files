@@ -7,7 +7,6 @@
 =cheyney.me.uk:46.43.0.210:3600
 
 +www.cheyney.me.uk:46.43.0.210:3600
-+mail.cheyney.me.uk:46.43.0.210:3600
 +brydon.cheyney.me.uk:46.43.0.210:3600
 
 # MX (mail)
