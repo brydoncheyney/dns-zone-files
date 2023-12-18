@@ -7,7 +7,17 @@
 =cheyney.me.uk:46.43.0.210:3600
 
 +www.cheyney.me.uk:46.43.0.210:3600
++mail.cheyney.me.uk:46.43.0.210:3600
 +brydon.cheyney.me.uk:46.43.0.210:3600
 
 # MX (mail)
 @cheyney.me.uk:46.43.0.210:mail.cheyney.me.uk:1:3600
+
+# SPF
+'cheyney.me.uk:v=spf1 +a +mx ~all:300
+
+# DKIM
+'default._domainkey.cheyney.me.uk:v=DKIM1;k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIhGfbuHwEFsONlb9sbvvCYiKrAw3AwYxz4LV4s/3Yaal8QYSuy71TKxPEFHItAqD/p0qh4uMnLJSyBkG0xLJ757h1x5+HZrKlVc7B/jIIGDsthgi6faxQtdAfsRqvbinWpWI4azXFRSVOQQS47xvzjNrVexNwYWMyOM+Hd/7BzQIDAQAB
+
+# DMARC
+'_dmarc.cheyney.me.uk:v=DMARC1;p=quarantine;adkim=r;aspf=r
