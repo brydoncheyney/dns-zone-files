@@ -11,3 +11,10 @@
 
 # MX (mail)
 @remission.org.uk:46.43.0.210:mail.remission.org.uk:1:3600
+
+# SPF
+'remission.org.uk:v=spf1 +a +mx ~all:3600
+
+# DKIM
+
+'default._domainkey.remission.org.uk:v=DKIM1;k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyrKDRTLoZrV9fla4w7048iN/lhnkGq2Db2GqaDkQAazBIzkIVgNwy1pOrb/5d4g0d0NsBUJ0Eh5sKQ800Ranq+veO+DqO5/RSRc1iZtm13v9m2VhER/gyQaGG/9CQFTvD2t84y2tpS35dqoGDQvckfniQEPb4IIPlYC6UMZ4bGwIDAQAB
